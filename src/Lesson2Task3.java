@@ -17,7 +17,6 @@ public class Lesson2Task3 {
     }
 
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
         Lesson2Task3 les = new Lesson2Task3();
         for (int i = 0; i < 30; i++) {
             les.place(1);
